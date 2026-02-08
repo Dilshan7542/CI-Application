@@ -9,4 +9,4 @@ python -m pip install streamlit joblib numpy pandas scikit-learn xgboost
 
 
 Run -> 
-streamlit run app.py
+.venv\Scripts\python.exe -m streamlit run app.py
